@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm Nikita, a sopohomore at Indian Institute Of Information Technology, Ranchi
+
 <!--
 **avocadocodes/avocadocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
