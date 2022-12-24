@@ -1,6 +1,6 @@
 ### 👋
 
-### Hi, I'm Nikita Kar, a passionate self-taught front-end web developer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care about the experience, architecture, and code quality of the things I build.
+### Hi, I'm Nikita Kar, sophomore at IIIT Ranchi and a passionate self-taught front-end web developer. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care about the experience, architecture, and code quality of the things I build.
 
 ### Furthermore, I am an open-source enthusiast and maintainer. I have learned a great deal from the open-source community and enjoy the way it fosters collaboration and the exchange of knowledge.
 
